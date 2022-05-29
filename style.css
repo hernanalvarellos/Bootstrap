@@ -12,6 +12,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 4vw;
 }
 
 #imagenFondo {
@@ -23,7 +24,7 @@
     background-position: center;
 }
 
-.fondo__seccion p {
+.fondo__seccion h1 {
     width: 50vw;
     font-size: 4vw;
     color: white;
@@ -126,6 +127,10 @@
     box-shadow: 5px 5px 20px;
 }
 
+.main__mastering {
+    margin-top: 12vw;
+}
+
 .mastering__subtitulo {
     width: 100%;
     display: flex;
@@ -149,6 +154,10 @@
 .mastering__imagen__contenedor {
     display: flex;
     justify-content: center;
+}
+
+.main__mix {
+    margin-top: 14vw;
 }
 
 .mix__titulo {
