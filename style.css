@@ -193,6 +193,10 @@
     justify-content: center;
 }
 
+.spotify {
+    margin-top: 4vw;
+}
+
 .body__contacto {
     background: black;
 }
@@ -310,7 +314,6 @@ header{
 
 
     .seccion__index{
-        /*height: 20vw;*/
         height: auto;
 
     }
